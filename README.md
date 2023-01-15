@@ -10,7 +10,7 @@ Myself, A Full stack web Developer and Open Source Enthusiast and My Interests l
 * 🖥️  Portfolio: [Hemansakkthivel](http://h3m4n04.github.io/CV-Basic/)
 * 🧠  I'm learning Javascript and Frameworks
 * 😀  Pronouns: he/him
-* 💀  Fun Fact: I Can Crack good jokes😅
+* 💀  Fun Fact: I Can Crack good jokes
 
 ### Skills
 
