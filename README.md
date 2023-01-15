@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hemansakkthivel
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Myself is Hemansakkthivel
 =======================================================================================================================================
 
 Student | Web Developer
 ---------------------
 
-Myself, A Full stack web Developer and Open Source Enthusiast and My Interests lies in Designing and Developing Websites, Graphic Designing and UI and UX Designing
+A Full stack web Developer and Open Source Enthusiast and My Interests lies in Designing and Developing Websites, Graphic Designing and UI and UX Designing
 
 * 🌍  I'm based in TamilNadu, India
 * 🖥️  Portfolio: [Hemansakkthivel](http://h3m4n04.github.io/CV-Basic/)
